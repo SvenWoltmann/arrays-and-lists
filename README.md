@@ -1,15 +1,15 @@
-# Arrays und Listen
+# Arrays und Listen in Java
 
-Hier findest du den Code zu meiner Videoreihe „Arrays und Listen“.
+Hier findest du den Code zu meiner Videoreihe „Arrays und Listen in Java“.
 
-* Video 1/3 – Arrays und Listen: erscheint am 1.11.2024
+* Video 1/3 – [Arrays und Listen in Java - Was unterscheidet sie?](https://youtu.be/4iKlbKl3bbI)
 * Video 2/3 – Arrays in Listen konvertieren: erscheint am 4.11.2024
 * Video 3/3 – Listen in Arrays konvertieren: erscheint am 6.11.2024
 
+### Warteliste
 👉 Trage dich jetzt auf die [Warteliste von „Mastering Data Structures in Java“](https://www.happycoders.eu/de/mastering-data-structures-warteliste/) ein, 
-und sichere dir **einmalige Sonderkonditionen zum Beta-Launch!**
+<br> &nbsp; &nbsp; &nbsp; und sichere dir **einmalige Sonderkonditionen zum Beta-Launch!**
 
-
-<br> Interessiert an regelmäßigen Tipps zu Java-Programmierung, Algorithmen und Datenstrukturen? 
-
-👉 [Hier geht’s zum HappyCoders-Newsletter](http://www.happycoders.eu/de/newsletter/) 
+### HappyCoders Newsletter
+Interessiert an regelmäßigen Tipps zu Java-Programmierung, Algorithmen und Datenstrukturen? 
+<br>👉 [Hier geht’s zum HappyCoders-Newsletter](http://www.happycoders.eu/de/newsletter/) 
