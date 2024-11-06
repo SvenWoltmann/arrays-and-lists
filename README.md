@@ -2,11 +2,11 @@
 
 Hier findest du den Code zu meiner Videoreihe „Arrays und Listen in Java“.
 
-* Video 1/3 – [Arrays und Listen in Java - Was unterscheidet sie?](https://www.youtube.com/watch?v=MT5KerZWI1w)
-* Video 2/3 – [Arrays in Listen konvertieren](https://www.youtube.com/watch?v=McrgATn5J7A)
-* Video 3/3 – Listen in Arrays konvertieren: erscheint am 6.11.2024
+* Video 1/3 – [Arrays und Listen in Java - Die Unterschiede verständlich erklärt + Wann verwende ich was?](https://www.youtube.com/watch?v=MT5KerZWI1w)
+* Video 2/3 – [Java Arrays in Listen umwandeln - Verschiedene Methoden Schritt-für-Schritt erklärt](https://www.youtube.com/watch?v=McrgATn5J7A)
+* Video 3/3 – [Java Listen in Arrays konvertieren - Methoden verstehen und richtig anwenden](https://www.youtube.com/watch?v=X3bRol73JWM)
 
-### Warteliste
+### Mastering Data Structures in Java
 👉 Trage dich jetzt auf die [Warteliste von „Mastering Data Structures in Java“](https://www.happycoders.eu/de/mastering-data-structures-warteliste/) ein, 
 <br> &nbsp; &nbsp; &nbsp; und sichere dir **einmalige Sonderkonditionen zum Beta-Launch!**
 
